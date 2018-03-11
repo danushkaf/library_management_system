@@ -1,0 +1,7 @@
+{
+    "hostname": "localhost",
+    "username": "lib_admin",
+    "password": "admin123",
+    "database": "library",
+    "connectionLimit": 100
+}

@@ -4,8 +4,6 @@ Library management system implemented using nodejs, react and redux
 # Features
 * Add Books to the system.
 * View Books in the system as a list.
-* Search Books by Name.
-* Sort Books by Name and Author.
 * Delete books from the list.
 
 # Prerequisites
@@ -14,8 +12,8 @@ Library management system implemented using nodejs, react and redux
 
 # How to run
 * Clone the repository.
-* Change the mysql server configuration in src/config/dbconfig.json file
-* Run the src/dbscripts/mysql.sql against the mysql database.
+* Change the mysql server configuration in resources/config/dbconfig.json file
+* Run the resources/dbscripts/mysql.sql against the mysql database.
 * Run "npm install" to install npm modules first
 * Then run the and use "npm start" to start the system.
 * And then access http://localhost:3000 from the browser to access the system.
